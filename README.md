@@ -1,4 +1,4 @@
- Data Scientist
+# Data Science & Data Analysis
 
 #### Technical Skills: Microsoft / Adobe Packages, PowerBI, MySQL, Oracle
 
