@@ -1,5 +1,8 @@
 title: Harry Richards
 logo: /assets/img/headshot_CIRCLE.JPG
-description: '<a href="https://www.linkedin.com/in/hrichards098/" target="_blank">LinkedIn</a>'
+LinkedIn: https://www.linkedin.com/in/hrichards098/
+github: https://github.com/hrichards-data
+CV: /assets/HARRY_RICHARDS_CV.pdf
+
 show_downloads: true
 theme: jekyll-theme-minimal
