@@ -1,4 +1,4 @@
-# Data Science & Data Analysis
+# Data Science & GenAI
 
 #### Technical Skills: Microsoft Office, PowerBI, SQL, Python, Data Cleaning & Analysis, Adobe Creative Suite
 
