@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -27,19 +28,22 @@
 
           {% if site.linkedin %}
           <p>
-            🔗 <a href="{{ site.linkedin }}" target="_blank">LinkedIn</a>
+            <i class="fa-brands fa-linkedin"></i>
+            <a href="{{ site.linkedin }}" target="_blank">LinkedIn</a>
           </p>
           {% endif %}
 
           {% if site.github_profile %}
           <p>
-            💻 <a href="{{ site.github_profile }}" target="_blank">GitHub</a>
+            <i class="fa-brands fa-github"></i>
+            <a href="{{ site.github_profile }}" target="_blank">GitHub</a>
           </p>
           {% endif %}
 
           {% if site.cv %}
           <p>
-            📄 <a href="{{ site.cv }}" target="_blank">Download CV</a>
+            <i class="fa-solid fa-file-pdf"></i>
+            <a href="{{ site.cv }}" target="_blank">Download CV</a>
           </p>
           {% endif %}
 
