@@ -22,8 +22,9 @@
 - organising time and tasks efficiently to see to it that deadlines of tasks were met for the team.
 - ability to undertake initiative when facing a problem.
 
-## Projects
-### soon to come
+## Certifications
+### Masterschool - Data Anayltics & Data Visualization
+- final project involved, cleaning, analysing, and presenting data with own insight from a mock dataset.
 
 
 
