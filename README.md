@@ -11,7 +11,7 @@
 
 ## Work Experience
 
-**Machine Learning Data Associate @ Amazon** (*Sept 2025 - Present*)
+**Senior Machine Learning Data Associate @ Amazon** (*Sept 2025 - Present*)
 
 - Annotate and classify multimodal datasets (text, image, video, audio) using proprietary 
   Amazon annotation software
