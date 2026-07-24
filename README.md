@@ -1,31 +1,37 @@
-# Data Science & GenAI
+# Data Annotation & Machine Learning
 
-#### Technical Skills: Microsoft Office, PowerBI, SQL, Python, Data Cleaning & Analysis, Adobe Creative Suite
+**Technical Skills:** Multimodal Data Annotation (text, image, video, audio), Power BI, SQL, Python
+**Tools:** Proprietary Amazon Annotation Software, Microsoft Office, Adobe Creative Suite
 
-## Education						       		
-- CertHE +80 CATS, Business Information  Technology	| Southampton Solent (_December 2021_)	 			        		
-- Distinction*, Level 3 Cambridge Technical Diploma in IT | Stockley Academy (_September 2016_)
-- 9 GCSE's grade C or above, including maths & english | Stockley Academy (_September 2014_)
+## Education
+
+- CertHE +80 CATS, Business Information Technology | Southampton Solent (*December 2021*)
+- Distinction*, Level 3 Cambridge Technical Diploma in IT | Stockley Academy (*September 2016*)
+- 9 GCSE's grade C or above, including maths & english | Stockley Academy (*September 2014*)
 
 ## Work Experience
-**Machine Learning Data Associate @ Amazon (_Sept 2025 - Present_)**
-- classified and annotated large datasets, ensuring data integrity, accuracy, and consistency while adhering to detailed project guidelines and quality standards.
-- processed large volumes of data efficiently while maintaining accuracy and meeting productivity and quality targets.
-- collaborated with team members to ensure consistent application of classification standards and support the timely completion of project objectives.
 
-**Data Entry @ ChloLay Ltd (_Jan 2022 - June 2022_)**
-- worked within a remote data entry team, gathering, collecting and organising data to a deadline.
-- worked mainly using **Microsoft Excel** and the popular CRM software **Hubspot**.
+**Machine Learning Data Associate @ Amazon** (*Sept 2025 - Present*)
 
-**Supermarket Seasonal Employee @ Marks & Spencer (_Nov 2021 - Dec 2021_)**
-- working in a fast paced, customer facing environment.
-- organising time and tasks efficiently to see to it that deadlines of tasks were met for the team.
-- ability to undertake initiative when facing a problem.
+- Annotate and classify multimodal datasets (text, image, video, audio) using proprietary 
+  Amazon annotation software
+- Maintain 99% annotation accuracy against a 96% quality target, consistently among the 
+  fastest performers on AHT benchmarks
+- Apply consistent classification standards across ambiguous or edge-case data
+- Collaborate with team members and quality leads to resolve annotation discrepancies
+
+**Data Entry @ ChloLay Ltd** (*Jan 2022 - Aug 2023*)
+
+- Entered and processed high volumes of data accurately against strict deadlines
+- Developed strong proficiency in Excel for data organisation and reporting
+
+**Supermarket Seasonal Employee @ Marks & Spencer** (*Dec 2021*)
+
+- Worked in a fast-paced, customer-facing environment during the Christmas period
+- Organised time and tasks efficiently to meet team deadlines
 
 ## Certifications
-### Masterschool - Data Anayltics & Data Visualization
-- final project involved, cleaning, analysing, and presenting data with own insight from a mock dataset.
 
+**Masterschool - Data Analytics & Data Visualization**
 
-
-
+- Final project involved cleaning, analysing, and presenting data with own insight from a mock dataset
